@@ -24,7 +24,7 @@
 
 #### 🟠 Gold
 
-* [1005 - ACM Craft](./BOJ/GOLD/1005_ACM_Craft)
+* [1005 - ACM Craft](BOJ/GOLD/1005_ACM_Craft)
 
 #### ⚪ Silver
 
