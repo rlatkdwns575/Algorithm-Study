@@ -64,7 +64,7 @@
 ><details>
 ><summary><b>SILVER 1</b></summary>
 >
->- (아직 없음)
+>- [1303 - 동물원](./BOJ/SILVER/1303_동물원)
 >
 ></details>
 
