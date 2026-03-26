@@ -24,11 +24,77 @@
 
 #### 🟠 Gold
 
-* [1005 - ACM Craft](BOJ/GOLD/1005_ACM_Craft)
+> <details>
+> <summary><b>GOLD 1</b></summary>
+>
+> - (아직 없음)
+>
+> </details>
+
+> <details>
+> <summary><b>GOLD 2</b></summary>
+>
+> - (아직 없음)
+>
+> </details>
+
+> <details>
+> <summary><b>GOLD 3</b></summary>
+>
+> - [1005 - ACM Craft](./BOJ/Gold/1005_ACM_Craft)
+>
+> </details>
+
+><details>
+><summary><b>GOLD 4</b></summary>
+>
+>- (아직 없음)
+>
+></details>
+
+><details>
+><summary><b>GOLD 5</b></summary>
+>
+>- (아직 없음)
+>
+></details>
 
 #### ⚪ Silver
 
-* 준비 중
+><details>
+><summary><b>SILVER 1</b></summary>
+>
+>- (아직 없음)
+>
+></details>
+
+><details>
+><summary><b>SILVER 2</b></summary>
+>
+>- (아직 없음)
+>
+></details>
+
+><details>
+><summary><b>SILVER 3</b></summary>
+>
+>- (아직 없음)
+>
+></details>
+
+><details>
+><summary><b>SILVER 4</b></summary>
+>
+>- (아직 없음)
+>
+></details>
+
+><details>
+><summary><b>SILVER 5</b></summary>
+>
+>- (아직 없음)
+>
+></details>
 
 ---
 
@@ -36,7 +102,12 @@
 
 #### Level 2
 
-* 준비 중
+><details>
+><summary><b>LEVEL 2</b></summary>
+>
+>- (아직 없음)
+>
+></details>
 
 ---
 
