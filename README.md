@@ -48,7 +48,7 @@
 ><details>
 ><summary><b>GOLD 4</b></summary>
 >
->- (아직 없음)
+>- [17404 - RGB거리 2](./BOJ/GOLD/17404_RGB거리2)
 >
 ></details>
 
