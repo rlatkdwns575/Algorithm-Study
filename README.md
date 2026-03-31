@@ -49,6 +49,7 @@
 ><summary><b>GOLD 4</b></summary>
 >
 >- [17404 - RGB거리 2](./BOJ/GOLD/17404_RGB거리2)
+>- [1197 - 최소 스패닝 트리](./BOJ/GOLD/1197_MST)
 >
 ></details>
 
