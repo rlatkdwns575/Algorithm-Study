@@ -79,7 +79,7 @@
 ><details>
 ><summary><b>SILVER 3</b></summary>
 >
->- (아직 없음)
+>- [9375 - 패션왕 신해빈](./BOJ/SILVER/9375_패션왕_신해빈)
 >
 ></details>
 
