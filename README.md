@@ -27,7 +27,7 @@
 > <details>
 > <summary><b>GOLD 1</b></summary>
 >
-> - (아직 없음)
+>- [1300 - K번째 수](./BOJ/GOLD/1300_K번째_수)
 >
 > </details>
 
