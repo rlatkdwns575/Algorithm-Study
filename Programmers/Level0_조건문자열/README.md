@@ -77,8 +77,8 @@ class Solution {
         else if (ineq.equals(">") && eq.equals("!"))
             answer = n > m;
         else
-            answer = n < m;
- ```           
+            answer = n < m;          
         return answer ? 1 : 0;
     }
 }
+```
