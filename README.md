@@ -15,6 +15,7 @@
 ## 🧠 사용 언어
 
 * Python
+* Java
 * SQL (MySQL)
 
 ---
