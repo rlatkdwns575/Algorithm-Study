@@ -22,7 +22,7 @@
 
 ## 📂 문제 목록
 
-### 🟡 BOJ (백준)
+### 🟡 BOJ (백준) - Python
 
 #### 🟠 Gold
 
@@ -102,7 +102,25 @@
 
 ---
 
-### 🟢 Programmers
+### 🟢 Programmers - Java & SQL
+
+#### Level 0
+
+><details>
+><summary><b>LEVEL 0</b></summary>
+>
+>- (아직 없음)
+>
+></details>
+
+#### Level 1
+
+><details>
+><summary><b>LEVEL 1</b></summary>
+>
+>- (아직 없음)
+>
+></details>
 
 #### Level 2
 
